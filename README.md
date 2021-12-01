@@ -18,7 +18,7 @@ If you want to provide the result when your solution is fed your dataset, name i
 cro-03-01-solution.txt
 ```
 
-To add your datasets/solutions just open a PR on this repo.  I'll merge your PR and then add you as a collaborator on the repo so you can merge your own in the future.
+To add your datasets/solutions just open a PR on this repo.  I'll merge your PR ASAP.
 
 Thanks for playing!
 
